@@ -1,0 +1,14 @@
+# Entorno virtual y caché de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Modelo de Whisper (se descarga con instalar.bat)
+modelos/
+
+# Datos de cada usuario: notas dictadas y capturas
+notas/
+capturas/
+
+# Temporales que se usan al guardar
+*.tmp
